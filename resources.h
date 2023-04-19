@@ -1,0 +1,81 @@
+
+#define IDD_DIALOG                      101
+#define IDD_SMARTVIEW                   101
+#define IDD_DISKCHECKUP                 101
+#define IDD_CGIFRONTEND                 101
+#define IDD_ABOUT                       102
+#define IDI_MAG_DRIVE                   103
+#define IDI_ICON1                       116
+#define IDC_VERSION                     1000
+#define IDC_ABOUT                       1001
+#define IDC_GETPROCESSLIST              1018
+#define IDB_LOGO                        1044
+#define IDC_BROWSEDUMP                  1045
+#define IDC_RUN                         1046
+#define IDC_FILE                        1047
+#define IDC_PROCESSLIST                 1048
+#define IDC_PLATFORM                    1049
+#define IDC_COMMAND                     1050
+#define IDC_CHECKEPROCESSOFFSET         1051
+#define IDC_CHECKPID                    1052
+#define IDC_PROCESSNAME                 1053
+#define IDC_CHECKVERBOSE                1054
+#define IDC_CHECKPROCESSNAME            1055
+#define IDC_DESCRIPTION                 1056
+#define IDC_EDIT1                       1057
+#define IDC_EDIT2                       1058
+#define IDC_EDIT3                       1060
+#define IDC_EDIT4                       1061
+#define IDC_EDIT5                       1062
+#define IDC_EDIT6                       1063
+#define IDC_CHECK1                      1065
+#define IDC_CHECK2                      1066
+#define IDC_CHECK3                      1067
+#define IDC_CHECK4                      1068
+#define IDC_CHECK5                      1069
+#define IDC_CHECK6                      1070
+#define IDC_CHECK7                      1071
+#define IDC_CHECK8                      1072
+#define IDC_CHECK9                      1073
+#define IDC_CHECK10                     1074
+#define IDC_RADIO1                      1075
+#define IDC_RADIO2                      1076
+#define IDC_RADIO3                      1077
+#define IDC_RADIO4                      1078
+#define IDC_RADIO5                      1079
+#define IDC_RADIO6                      1080
+#define IDC_DROPDOWN1                   1081
+#define IDC_DROPDOWN2                   1082
+#define IDC_DROPDOWN3                   1083
+#define IDC_DROPDOWN4                   1084
+#define IDC_DROPDOWN5                   1085
+#define IDC_DROPDOWN6                   1086
+#define IDC_GROUP1                      1087
+#define IDC_GROUP2                      1088
+#define IDC_GROUP3                      1089
+#define IDC_GROUP4                      1090
+#define IDC_GROUP5                      1091
+#define IDC_GROUP6                      1092
+#define IDC_GROUP7                      1093
+#define IDC_GROUP8                      1094
+#define IDC_SAVE                        1095
+#define IDC_COPYTOCLIPBOARD             1096
+#define IDC_CMDINFO                     1097
+#define IDC_STATUS                      1098
+#define IDC_RADIO7                      1099
+#define IDC_EDIT7                       1100
+#define IDC_DROPDOWN7                   1101
+#define IDC_PROGRESS                    1102
+#define IDC_CLEARLOG                    1103
+#define IDC_SYSLINK1                    1104
+#define IDC_STATIC_LINK                 1105
+
+
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        117
+#define _APS_NEXT_COMMAND_VALUE         40001
+#define _APS_NEXT_CONTROL_VALUE         1106
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
